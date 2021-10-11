@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NailsHit", "NailsHit\NailsHit.csproj", "{9AD5C7FE-2267-4FAD-9784-4422C791D6A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD5C7FE-2267-4FAD-9784-4422C791D6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD5C7FE-2267-4FAD-9784-4422C791D6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD5C7FE-2267-4FAD-9784-4422C791D6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD5C7FE-2267-4FAD-9784-4422C791D6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F958E970-84D0-4C0C-B444-FBEE813CD961}
+	EndGlobalSection
+EndGlobal
